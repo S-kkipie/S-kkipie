@@ -18,6 +18,7 @@ Open to **AI Product Manager**, **Product Manager**, **Go-To-Market Engineer**, 
 
 - **AI Product Manager @ MyWorkIn** — product specs, user stories, code review, and shipping alongside the dev team.
 - **AI-DO** — an AI platform that turns natural-language descriptions into production business apps (CRM, inventory, e-commerce). LangGraph orchestration, Next.js + Python, live with real users.
+- **AI-DO-LABS** — my lab for AI infrastructure and products. Building **Graph Context Protocol**, a TypeScript protocol + SDK for role-gated context sharing between AI-native apps and autonomous agents — each entity owns its own memory and policies, read-first instead of agent-to-agent messaging. Also **SGPU**, a full-stack postgraduate-management system for UNSA (Next.js + TypeScript).
 
 ## A few things I've built
 
