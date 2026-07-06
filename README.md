@@ -8,7 +8,7 @@
   <a href="mailto:issacysofia@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-I'm a full-stack developer and AI Product Manager, and I build AI products end-to-end — from LLM orchestration on the backend to the interface people actually use. I find a real problem, prototype it in days, and ship the whole thing.
+I'm a full-stack developer and AI Product Manager, and I build AI products end-to-end — from LLM orchestration on the backend to the interface people actually use. I find a real problem, prototype it in hours, and ship the whole thing.
 
 I got here by taking things apart. I like breaking stuff to understand how it really works — CTFs, security, a bit of organized chaos — and that curiosity turned into building. Hackathons are my favorite playground. Engineer first, so when it needs to be built *right* and not just fast, I can go deep on the architecture.
 
