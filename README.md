@@ -21,7 +21,7 @@ Open to **AI Product Manager**, **Product Manager**, **Go-To-Market Engineer**, 
 
 ## A few things I've built
 
-- **[Graph Context Protocol](https://github.com/AI-DO-LABS/graph-context-protocol)** — *my most technical work.* A TypeScript protocol + SDK for role-gated context sharing between AI-native apps and autonomous agents: each entity owns its own memory, auth and policies, and reads permitted context instead of message-passing. Interoperates with MCP and A2A.
+- **[Graph Context Protocol](https://github.com/S-kkipie/graph-context-protocol)** — *my most technical work.* A TypeScript protocol + SDK for role-gated context sharing between AI-native apps and autonomous agents: each entity owns its own memory, auth and policies, and reads permitted context instead of message-passing. Interoperates with MCP and A2A.
 - **[Brota](https://github.com/S-kkipie/brota)** — Dollar savings over WhatsApp and Telegram with an AI coach, and your money earns yield. No app, no crypto knowledge needed. *Stellar PULSO Hackathon 2026.*
 - **[CareerBoost](https://github.com/S-kkipie/careerboost)** — AI job board for university grads; connects your Gmail and matches you to real roles. Next.js, Elysia, Drizzle, Gemini.
 - **[VELA](https://github.com/S-kkipie/v3la)** — Decentralized lending using on-chain identity (RUC) and AI agents. *🥇 1st place, InnovaTechWeek 2026.* Solana, Anchor.
