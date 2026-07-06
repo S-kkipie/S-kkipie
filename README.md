@@ -52,6 +52,11 @@ Java / Spring (Spring Cloud, microservices) · TypeScript / Next.js · Python ·
 </p>
 
 <p align="center">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=S-kkipie&show_icons=true&hide_border=true&count_private=true&theme=transparent" alt="GitHub stats"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=S-kkipie&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Top languages"/>
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=S-kkipie&hide_border=true&theme=transparent" alt="GitHub streak"/>
 </p>
 
