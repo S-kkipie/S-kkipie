@@ -18,7 +18,6 @@ Open to **AI Product Manager**, **Product Manager**, **Go-To-Market Engineer**, 
 
 - **AI Product Manager @ MyWorkIn** — product specs, user stories, code review, and shipping alongside the dev team.
 - **AI-DO** — an AI platform that turns natural-language descriptions into production business apps (CRM, inventory, e-commerce). LangGraph orchestration, Next.js + Python, live with real users.
-- **CodeGuard** — open-source, in-memory static security scanner for GitHub repos (Next.js / React / TS): vulnerabilities, exposed secrets, anti-patterns.
 
 ## A few things I've built
 
