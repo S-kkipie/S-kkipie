@@ -18,15 +18,16 @@ Open to **AI Product Manager**, **Product Manager**, **Go-To-Market Engineer**, 
 
 - **AI Product Manager @ MyWorkIn** — product specs, user stories, code review, and shipping alongside the dev team.
 - **AI-DO** — an AI platform that turns natural-language descriptions into production business apps (CRM, inventory, e-commerce). LangGraph orchestration, Next.js + Python, live with real users.
-- **AI-DO-LABS** — my lab for AI infrastructure and products. Building **Graph Context Protocol**, a TypeScript protocol + SDK for role-gated context sharing between AI-native apps and autonomous agents — each entity owns its own memory and policies, read-first instead of agent-to-agent messaging. Also **SGPU**, a full-stack postgraduate-management system for UNSA (Next.js + TypeScript).
 
 ## A few things I've built
 
+- **[Graph Context Protocol](https://github.com/AI-DO-LABS/graph-context-protocol)** — *my most technical work.* A TypeScript protocol + SDK for role-gated context sharing between AI-native apps and autonomous agents: each entity owns its own memory, auth and policies, and reads permitted context instead of message-passing. Interoperates with MCP and A2A.
 - **[Brota](https://github.com/S-kkipie/brota)** — Dollar savings over WhatsApp and Telegram with an AI coach, and your money earns yield. No app, no crypto knowledge needed. *Stellar PULSO Hackathon 2026.*
 - **[CareerBoost](https://github.com/S-kkipie/careerboost)** — AI job board for university grads; connects your Gmail and matches you to real roles. Next.js, Elysia, Drizzle, Gemini.
 - **[VELA](https://github.com/S-kkipie/v3la)** — Decentralized lending using on-chain identity (RUC) and AI agents. *🥇 1st place, InnovaTechWeek 2026.* Solana, Anchor.
 - **[La Doce](https://github.com/S-kkipie/La12)** — Tokenize football clubs: fans fund their club and earn revenue in USDt, self-custody, no middleman.
 - **[EcoTrace](https://github.com/S-kkipie/ecotrace)** — Product traceability, returns and on-chain rewards on Starknet (Cairo + Next.js). *ETH Lima Hackathon.*
+- **Vendlyfy** — AI-agent SaaS for e-commerce customer support over WhatsApp. LangGraph + FastAPI. *(private)*
 - **[spring-microservices-platform](https://github.com/S-kkipie/spring-microservices-platform)** — Spring Cloud microservices (discovery, identity, tenant, inventory, LDAP). The distributed-systems side of me.
 
 ## Recognition
