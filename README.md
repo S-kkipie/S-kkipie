@@ -2,7 +2,7 @@
 <p align="center"><b>AI Product Builder</b> — I take AI products from idea to go-to-market.</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/adrian-issac-2819492b5/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/adrian-issac/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://x.com/skkippie"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
   <a href="https://skkippie.me"><img src="https://img.shields.io/badge/skkippie.me-1a1a1a?style=for-the-badge&logo=safari&logoColor=white" alt="Website"/></a>
   <a href="mailto:issacysofia@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
