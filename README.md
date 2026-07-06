@@ -8,22 +8,33 @@
   <a href="mailto:issacysofia@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-I build AI products for the people the system usually skips — informal workers, the unbanked, the folks in LATAM who get left out of "the future."
+I'm a full-stack developer and AI Product Manager, and I build AI products end-to-end — from LLM orchestration on the backend to the interface people actually use. I find a real problem, prototype it in days, and ship the whole thing.
 
-I got here by taking things apart. I like breaking stuff to understand how it really works — CTFs, security, a bit of organized chaos — and that curiosity turned into building. These days I find a real problem, prototype it in days, and ship the whole thing end-to-end. Hackathons are my favorite playground. Engineer first, so when it needs to be built *right* and not just fast, I can go deep on the architecture.
-
-The goal stays simple: put good technology in the hands of people who never had access to it.
+I got here by taking things apart. I like breaking stuff to understand how it really works — CTFs, security, a bit of organized chaos — and that curiosity turned into building. Hackathons are my favorite playground. Engineer first, so when it needs to be built *right* and not just fast, I can go deep on the architecture.
 
 Open to **AI Product Manager**, **Product Manager**, **Go-To-Market Engineer**, **Growth**, and indie collabs.
+
+## Now
+
+- **AI Product Manager @ MyWorkIn** — product specs, user stories, code review, and shipping alongside the dev team.
+- **AI-DO** — an AI platform that turns natural-language descriptions into production business apps (CRM, inventory, e-commerce). LangGraph orchestration, Next.js + Python, live with real users.
+- **CodeGuard** — open-source, in-memory static security scanner for GitHub repos (Next.js / React / TS): vulnerabilities, exposed secrets, anti-patterns.
 
 ## A few things I've built
 
 - **[Brota](https://github.com/S-kkipie/brota)** — Dollar savings over WhatsApp and Telegram with an AI coach, and your money earns yield. No app, no crypto knowledge needed. *Stellar PULSO Hackathon 2026.*
 - **[CareerBoost](https://github.com/S-kkipie/careerboost)** — AI job board for university grads; connects your Gmail and matches you to real roles. Next.js, Elysia, Drizzle, Gemini.
-- **[VELA](https://github.com/S-kkipie/v3la)** — Decentralized lending that uses on-chain identity (RUC) and AI agents to give informal entrepreneurs a fair shot at credit. Solana, Anchor.
+- **[VELA](https://github.com/S-kkipie/v3la)** — Decentralized lending using on-chain identity (RUC) and AI agents. *🥇 1st place, InnovaTechWeek 2026.* Solana, Anchor.
 - **[La Doce](https://github.com/S-kkipie/La12)** — Tokenize football clubs: fans fund their club and earn revenue in USDt, self-custody, no middleman.
 - **[EcoTrace](https://github.com/S-kkipie/ecotrace)** — Product traceability, returns and on-chain rewards on Starknet (Cairo + Next.js). *ETH Lima Hackathon.*
 - **[spring-microservices-platform](https://github.com/S-kkipie/spring-microservices-platform)** — Spring Cloud microservices (discovery, identity, tenant, inventory, LDAP). The distributed-systems side of me.
+
+## Recognition
+
+- 🥇 **1st — JEBI AI Hackathon (2026)** — real-time crane hand-movement detection (YOLO + custom labeling pipelines) with a live metrics dashboard.
+- 🥇 **1st — InnovaTechWeek (2026)** — VELA, Web3 lending connecting female entrepreneurs to global investment.
+- 🥇 **1st — BCP Hackathon (2025)** — Khipy, blockchain payments for rural areas with limited connectivity.
+- 🥇 **1st — CTF Admission Challenge, CiberSecUNI (2025)**.
 
 ## How I work
 
@@ -31,7 +42,7 @@ Problem first — I start from what actually hurts, not the feature, and cut sco
 
 ## Stack
 
-Java / Spring (Spring Cloud, microservices) · TypeScript / Next.js · Python · Solidity / Cairo · Rust · Solana/Anchor, Stellar/Soroban · LLMs and agents (Gemini, LangGraph).
+Java / Spring (Spring Cloud, microservices) · TypeScript / Next.js · Python · Solidity / Cairo · Rust · Solana/Anchor, Stellar/Soroban · LLMs and agents (LangGraph, Gemini) · AWS, GCP, Docker.
 
 ## GitHub
 
@@ -44,4 +55,4 @@ Java / Spring (Spring Cloud, microservices) · TypeScript / Next.js · Python ·
   <img src="https://streak-stats.demolab.com/?user=S-kkipie&hide_border=true&theme=transparent" alt="GitHub streak"/>
 </p>
 
-<p align="center"><sub>Hecho desde Arequipa, Perú 🇵🇪 — para los que el sistema suele saltarse.</sub></p>
+<p align="center"><sub>Construyendo desde Arequipa, Perú 🇵🇪</sub></p>
